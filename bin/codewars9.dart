@@ -5,4 +5,6 @@ void main() {
   final input = stdin.readLineSync() ?? '';
   final num = int.tryParse(input);
   print(num);
+  final a = num;
+  print(a);
 }
