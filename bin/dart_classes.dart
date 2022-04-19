@@ -11,6 +11,13 @@ void main() {
 
   final second = ToyotaCars('one', 'two', 42423523);
 
+<<<<<<< Updated upstream
+=======
+  final third = ToyotaCars('one', 'two', 42423523);
+
+  final now = ToyotaCars('one', 'two', 42423523);
+  print(now);
+>>>>>>> Stashed changes
   print(one);
   print(second);
 }
