@@ -11,6 +11,9 @@ void main() {
 
   final second = ToyotaCars('one', 'two', 42423523);
 
+  final third = ToyotaCars('one', 'two', 42423523);
+
   print(one);
   print(second);
+  print(third);
 }
