@@ -11,11 +11,7 @@ void main() {
 
   final second = ToyotaCars('one', 'two', 42423523);
 
-
-  final third = ToyotaCars('one', 'two', 42423523);
-
-  final now = ToyotaCars('one', 'two', 42423523);
-  print(now);
   print(one);
   print(second);
+
 }
